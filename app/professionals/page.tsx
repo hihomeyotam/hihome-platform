@@ -1,0 +1,1 @@
+export default function Professionals(){return <div>Professionals</div>}
